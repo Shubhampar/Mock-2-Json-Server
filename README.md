@@ -1,1 +1,1 @@
-# Mock-2-Json-Server
+# json-mock-server
